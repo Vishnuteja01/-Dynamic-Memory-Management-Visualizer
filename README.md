@@ -15,4 +15,4 @@ This project implements a **Dynamic Memory Management Visualizer** using Python,
 - matplotlib (Install via: `pip install matplotlib`)  
 - tkinter (Included with Python standard library)
 ## Visualization
-- **The program generates graphical representations of memory states using Matplotlib, with Gantt chart-like visuals for page allocation and segmentation.
+- The program generates graphical representations of memory states using Matplotlib, with Gantt chart-like visuals for page allocation and segmentation.
