@@ -14,9 +14,3 @@ This project implements a **Dynamic Memory Management Visualizer** using Python,
 - Python 3.x  
 - matplotlib (Install via: `pip install matplotlib`)  
 - tkinter (Included with Python standard library)
-
-##  Usage
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Dynamic-Memory-Management-Visualizer.git
-   cd Dynamic-Memory-Management-Visualizer
