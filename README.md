@@ -13,11 +13,3 @@ This project implements a **Dynamic Memory Management Visualizer** using Python,
 - **User-Friendly GUI:** Built with Tkinter for easy user interaction.
 
 ---
-
-## 🔧 Requirements
-- **Python 3.x**
-- **matplotlib:**  
-  Install via: 
-  ```bash
-  pip install matplotlib
-
